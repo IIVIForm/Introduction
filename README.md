@@ -1,2 +1,1 @@
-Introduction to Java
-By SupremeMortal
+Introduction to Java.
