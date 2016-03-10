@@ -22,7 +22,7 @@ public class Introduction {
 	public void runArt(){
 		System.out.println("  ___   _      _   ____    _   _");
 		System.out.println(" / _ \\  \\\\    //  | ___|  | \\ | |");
-		System.out.println("( (_) )  \\\\/\\//   | __|   |  \\| |");
+		System.out.println("( (_) )  \\\\/\\//   | __|   |  \\| |");// Need to add extra backslash so format is correct
 		System.out.println(" \\___/    \\/\\/    |____|  |_\\___|");	
 	}
 }
